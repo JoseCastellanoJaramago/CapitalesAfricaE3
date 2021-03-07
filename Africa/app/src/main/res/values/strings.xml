@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Capitales de África</string>
+    <string name="label_capital">INDICA SU CAPITAL</string>
+    <string name="label_empezar">Pulse para empezar</string>
+    <string name="label_cambiar">Mostrar otro Pais</string>
+    <string name="label_reiniciar">Volver a empezar</string>
+    <string name="label_noCheck">Debes seleccionar una opción</string>
+    <string name="label_resultados">RESULTADOS</string>
+    <string name="label_paises">Nº Paises:</string>
+    <string name="label_aciertos">Nº Aciertos:</string>
+    <string name="label_fallos">Nº Fallos:</string>
+    <string name="btn_volver">VOLVER</string>
+    <string name="label_verResultados">Ver resultados</string>
+    <string name="label_ultimo">¡Último pais!</string>
+</resources>
